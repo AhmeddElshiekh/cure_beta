@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53766172392",
+    "project_id": "cure-2825c",
+    "storage_bucket": "cure-2825c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53766172392:android:76234634cb9bb40be1235d",
+        "android_client_info": {
+          "package_name": "com.example.cure"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2XERlXUIe_HeBHIvBJs5kVeW6Q1KBqdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
